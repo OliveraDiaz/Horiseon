@@ -70,13 +70,17 @@ a {
     color: #ffffff;
 }
 
-p {
-    font-size: 16px;
+.section img {
+    max-height: 200px;
 }
 
-.float-right {
-    float: right;
-    margin-left: 25px;
+.section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+p {
+    font-size: 16px;
 }
 
 .float-left {
@@ -84,7 +88,10 @@ p {
     margin-right: 25px;
 }
 
-
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 
 .benefits {
     margin-right: 20px;
@@ -114,25 +121,6 @@ p {
     max-width: 150px;
 }
 
-
-
-.section img {
-    max-height: 200px;
-}
-
-.section img {
-    max-height: 200px;
-}
-
-.section img {
-    max-height: 200px;
-}
-
-.section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* Footer below is ordered */
 footer {
     padding: 30px;
     clear: both;
